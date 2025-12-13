@@ -1,9 +1,9 @@
 # 🧠 My AI Learning Journey
 
-Welcome to my **AI journey**, where I go from absolute beginner to job-ready AI Engineer — one day at a time.  
+Welcome to my **AI journey** — one day at a time.  
 This repository contains **daily code, projects, and progress**, following a carefully crafted roadmap covering:
 
-✅ Machine Learning • ✅ Deep Learning • ✅ NLP • ✅ Computer Vision • ✅ Generative AI • ✅ Deployment • ✅ Portfolio Building
+✅ Machine Learning • ✅ Deep Learning • 
 
 ---
 
@@ -26,16 +26,6 @@ This repository contains **daily code, projects, and progress**, following a car
 - Neural Networks from scratch
 - TensorFlow, Keras, CNNs, Transfer Learning
 
-### 🔹 Phase 5: Natural Language Processing 
-- Text Preprocessing, Word Embeddings, Transformers
-- BERT, Hugging Face, Text Generation, Q&A
-
-### 🔹 Phase 6: Computer Vision 
-- OpenCV, CNNs, Image Classification, YOLO, Face Detection, Vision Transformers
-
-### 🔹 Phase 7: Generative AI
-- GANs, VAEs, GPT models, Prompt Engineering
-- LangChain, ChatGPT, Stable Diffusion, RLHF
 
 ### 🔹 Final Phase: Deployment & Career Launch
 - Streamlit, Gradio, Hugging Face Spaces, FastAPI
