@@ -26,13 +26,6 @@ This repository contains **daily code, projects, and progress**, following a car
 - Neural Networks from scratch
 - TensorFlow, Keras, CNNs, Transfer Learning
 
-
-### 🔹 Final Phase: Deployment & Career Launch
-- Streamlit, Gradio, Hugging Face Spaces, FastAPI
-- AutoML, MLOps basics
-- Resume, LinkedIn, GitHub, Freelance Profiles
-- Capstone Projects, Job Applications, Interview Prep
-
 ---
 
 
